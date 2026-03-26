@@ -52,4 +52,4 @@ O diferencial deste projeto é a documentação das interações com a IA, demon
 
 ---
 
-Desenvolvido por **[Seu Nome]** durante o curso "Aplicações Práticas da IA" na **DIO**. 🚀
+Desenvolvido por **Gustavo Ferro** durante o curso "Aplicações Práticas da IA" na **DIO**. 🚀
