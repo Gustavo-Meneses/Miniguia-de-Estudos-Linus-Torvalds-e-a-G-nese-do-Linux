@@ -24,7 +24,7 @@ Assistente de estudos interativo desenvolvido no **NotebookLM** que utiliza cura
 
 Aproveite o resumo em áudio gerado pelo **NotebookLM** para estudar em qualquer lugar. Este podcast simula uma conversa profunda entre especialistas sobre a trajetória de Linus e a filosofia Open Source.
 
-> 🎙️ **[Clique aqui para ouvir o Podcast no Google Drive](https://drive.google.com/file/d/1DndjKrw6hNtiEdTmI1ptKqK_rki7-mHu/view?usp=drivesdk)**
+* 🎙️ **[Clique aqui para ouvir o Podcast no Google Drive](https://drive.google.com/file/d/1DndjKrw6hNtiEdTmI1ptKqK_rki7-mHu/view?usp=drivesdk)**
 
 ---
 
