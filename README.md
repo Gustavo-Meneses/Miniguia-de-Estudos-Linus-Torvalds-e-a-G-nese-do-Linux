@@ -20,6 +20,12 @@ Assistente de estudos interativo desenvolvido no **NotebookLM** que utiliza cura
 * **Debate Tanenbaum-Torvalds:** Documentação da disputa sobre Microkernels vs. Monolíticos.
 * **Just for Fun (Biográfico):** Insights sobre a ambição pragmática de Linus.
 
+## 🎧 Podcast: Deep Dive (IA Generation)
+
+Aproveite o resumo em áudio gerado pelo **NotebookLM** para estudar em qualquer lugar. Este podcast simula uma conversa profunda entre especialistas sobre a trajetória de Linus e a filosofia Open Source.
+
+> 🎙️ **[Clique aqui para ouvir o Podcast no Google Drive](https://drive.google.com/file/d/1DndjKrw6hNtiEdTmI1ptKqK_rki7-mHu/view?usp=drivesdk)**
+
 ---
 
 ## 🛠️ Engenharia de Prompts (Cicatrizes)
