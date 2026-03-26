@@ -1,4 +1,6 @@
 🐧 Miniguia de Estudos: Linus Torvalds e a Ambição por trás do Linux
+
+
 🎯 Contexto e Objetivos
 Este projeto foi desenvolvido como parte do desafio prático do curso "Aplicações Práticas da Inteligência Artificial" da DIO. O objetivo é utilizar o NotebookLM (IA experimental do Google) para sintetizar a história, a mentalidade e os marcos técnicos de Linus Torvalds, focando na transição do Linux de um "projeto de hobby" para o pilar da computação moderna.
 
